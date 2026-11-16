@@ -1,0 +1,15 @@
+{
+  "id": "org.lgdebloat.setup",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "zipDash Setup",
+  "appDescription": "Installs zipDash, a sober home screen for rooted LG webOS TVs, or gives the TV back to LG's home.",
+  "iconUri": "https://raw.githubusercontent.com/ZIPender/zipDash/main/repo/icon.png",
+  "sourceUrl": "https://github.com/ZIPender/zipDash",
+  "rootRequired": true,
+  "ipkUrl": "https://github.com/ZIPender/zipDash/releases/download/v1.0.0/zipdash-setup_1.0.0.ipk",
+  "ipkHash": {
+    "sha256": "33b16df6a32740e380e2667dfa709724764b88ee3dee76f62fbad7d2371c98f3"
+  },
+  "ipkSize": 757300
+}

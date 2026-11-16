@@ -36,7 +36,7 @@ replaced. Remove it and everything is LG's again, as it was.
 <table>
   <tr>
     <td width="50%"><img src="media/tour-obsidian.gif" width="100%" alt="The same tour in the Obsidian theme, deep purple."></td>
-    <td width="50%"><img src="media/tour-white.gif" width="100%" alt="The same tour in the Blanc theme, light grey and white."></td>
+    <td width="50%"><img src="media/tour-white.gif" width="100%" alt="The same tour in the Blanc theme: pure white, black type, a red accent."></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Obsidian</b> · <a href="media/tour-obsidian.mp4">MP4</a></sub></td>
@@ -83,7 +83,7 @@ installed. zipDash is tested on an OLED A1; other webOS 6 TVs should work.
   left, your apps in the middle, a big title on the right. *Ambient* is a dock
   of round icons under a large clock; press **Down** for every app. Switch any
   time in **Paramètres**.
-- **Three themes:** Noir, Obsidian (deep purple) and Blanc, with a choice of
+- **Three themes:** Noir, Obsidian (deep purple) and Blanc (white, black type, a red accent), with a choice of
   four illustration styles for app pictures.
 
 - **Favourites, recent apps and hidden apps.** Hold **OK** on any app or input

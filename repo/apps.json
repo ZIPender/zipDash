@@ -24,9 +24,9 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/ZIPender/zipDash/releases/download/v1.0.3/zipdash-setup_1.0.3.ipk",
         "ipkHash": {
-          "sha256": "4f093ca524ab835cc2769fc238f0a94fffcb26aae82f82f0eb15570f0a10648c"
+          "sha256": "bbd1d78d459cefd882076ec338892aff84aa39e12a1f097f80e1257966912b24"
         },
-        "ipkSize": 826478
+        "ipkSize": 826720
       },
       "pool": "main",
       "shortDescription": "A sober home screen for rooted LG webOS TVs. No ads, opens in 20 to 35 ms."

@@ -29,22 +29,16 @@ replaced. Remove it and everything is LG's again, as it was.
 ## See it move
 
 <p align="center">
-  <img src="media/tour-black.gif" width="100%" alt="zipDash in the Noir theme: moving along the dock in Ambient, pressing Down to open every app, back, then switching to the Index layout from the settings panel and moving through its lists.">
+  <a href="media/demo-index-white.mp4"><img src="media/demo-index-white.gif" width="100%" alt="zipDash in the Index layout and the Blanc theme: moving through the lists with the remote; then with an Xbox controller, the key hints show its A, Y and B buttons, and a long press opens an app's options; then the screensaver while Spotify plays: the cover, the song, its progress and the synced lyrics moving line by line."></a>
 </p>
-<p align="center"><sub><b>Noir</b>, the default · <a href="media/tour-black.mp4">MP4</a></sub></p>
+<p align="center"><sub><b>Index</b> in <b>Blanc</b>, with an Xbox controller · <a href="media/demo-index-white.mp4">MP4</a></sub></p>
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/tour-obsidian.gif" width="100%" alt="The same tour in the Obsidian theme, deep purple."></td>
-    <td width="50%"><img src="media/tour-white.gif" width="100%" alt="The same tour in the Blanc theme: pure white, black type, a red accent."></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>Obsidian</b> · <a href="media/tour-obsidian.mp4">MP4</a></sub></td>
-    <td align="center"><sub><b>Blanc</b> · <a href="media/tour-white.mp4">MP4</a></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="media/demo-ambient-obsidian.mp4"><img src="media/demo-ambient-obsidian.gif" width="100%" alt="The same demo in the Ambient layout and the Obsidian theme: the dock and every app with the remote; the same with a PlayStation controller, whose cross, triangle and circle buttons show in the hints; then the screensaver over Spotify with the cover and synced lyrics."></a>
+</p>
+<p align="center"><sub><b>Ambient</b> in <b>Obsidian</b>, with a PlayStation controller · <a href="media/demo-ambient-obsidian.mp4">MP4</a></sub></p>
 
-<p align="center"><sub>Recorded from zipDash's PC preview with sample apps; on the TV it looks the same.</sub></p>
+<p align="center"><sub>Recorded from zipDash's PC preview with sample apps and an invented song; on the TV it looks the same.</sub></p>
 
 ## Install
 

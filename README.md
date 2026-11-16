@@ -92,7 +92,7 @@ installed. zipDash is tested on an OLED A1; other webOS 6 TVs should work.
   are marked live.
 - **Its own screensaver**, across the whole TV: a slow clock in your theme
   (Dérive, Orbite, or Constellation with your favourite apps).
-- **Its own volume bar and keyboard**, drawn in your theme.
+- **Its own volume bar and keyboard** (AZERTY or Swiss QWERTZ), drawn in your theme.
 - **Your name for it.** Rename zipDash to anything you like; the start-up screen
   and the power-off logo follow.
 - **Updates from the TV.** zipDash checks this page for a new version when it

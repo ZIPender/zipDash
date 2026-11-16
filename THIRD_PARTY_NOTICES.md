@@ -1,5 +1,10 @@
 # Third-party notices
 
+zipDash draws game controller buttons (PlayStation ✕ ○ △, Xbox A B Y) in its key hints from
+**Input Prompts** by Kenney, https://kenney.nl/assets/input-prompts, licensed under Creative
+Commons Zero (CC0 1.0, http://creativecommons.org/publicdomain/zero/1.0/): rasterised to small
+PNGs, otherwise unchanged.
+
 zipDash includes these fonts, unchanged except for static cuts made from the variable fonts (one weight per file, tabular digits for some cuts):
 
 - **Inter**, by The Inter Project Authors, https://github.com/rsms/inter

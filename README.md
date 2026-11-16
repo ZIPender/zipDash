@@ -93,6 +93,14 @@ installed. zipDash is tested on an OLED A1; other webOS 6 TVs should work.
 - **Its own screensaver**, across the whole TV: a slow clock in your theme
   (Dérive, Orbite, or Constellation with your favourite apps).
 - **Its own volume bar and keyboard** (AZERTY or Swiss QWERTZ), drawn in your theme.
+- **Your game controller as the remote.** A PS5, PS4 or Xbox controller drives zipDash,
+  LG's menus and every app; games that use the controller keep it to themselves. zipDash's
+  key hints then show its buttons (✕ ○ △, or A B Y).
+- **What Spotify plays, on the screensaver.** When the screensaver comes up while Spotify
+  plays on the TV: the cover, the song, its progress and synced lyrics (from
+  [LRCLIB](https://lrclib.net), a free lyrics database), or the clock when a song has none.
+  **Paramètres** › **Musique**: with lyrics, cover only, or the usual screensaver. It needs one
+  setting on the TV, below.
 - **Your name for it.** Rename zipDash to anything you like; the start-up screen
   and the power-off logo follow.
 - **Updates from the TV.** zipDash checks this page for a new version when it
@@ -107,6 +115,27 @@ The interface is in French for now.
 <p align="center">
   <img src="media/screens.png" width="100%" alt="Six screens: the full list of apps and the settings panel in Ambient, the options of an app and the settings in Index, the update prompt, and zipDash's volume bar.">
 </p>
+
+<details>
+<summary>Turning on the Spotify screensaver</summary>
+
+zipDash reads Spotify through the TV's web inspector (port 9998), which lists store apps such
+as Spotify only once the file `/var/luna/preferences/debug_system_apps` exists. That would also
+let anything on your network open those apps through port 9998, so close the port to the network
+at the same time; zipDash reads it from inside the TV. Over SSH as root:
+
+```sh
+touch /var/luna/preferences/debug_system_apps
+H=/var/lib/webosbrew/init.d/50-lg-debloat-debugport
+printf '#!/bin/sh\niptables -C INPUT -p tcp --dport 9998 ! -i lo -j DROP 2>/dev/null || iptables -I INPUT -p tcp --dport 9998 ! -i lo -j DROP\n' > $H
+chmod 755 $H && $H
+reboot
+```
+
+The last file puts the rule back at every start. To undo both:
+`rm /var/luna/preferences/debug_system_apps /var/lib/webosbrew/init.d/50-lg-debloat-debugport`,
+then restart the TV. Without the file, the screensaver stays the usual one.
+</details>
 
 ## How fast
 

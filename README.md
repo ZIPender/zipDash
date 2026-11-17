@@ -28,14 +28,12 @@ replaced. Remove it and everything is LG's again, as it was.
 
 ## See it move
 
-<p align="center">
-  <a href="media/demo-index-white.mp4"><img src="media/demo-index-white.gif" width="100%" alt="zipDash in the Index layout and the Blanc theme: moving through the lists with the remote; then with an Xbox controller, the key hints show its A, Y and B buttons, and a long press opens an app's options; then the screensaver while Spotify plays: the cover, the song, its progress and the synced lyrics moving line by line."></a>
-</p>
+https://github.com/user-attachments/assets/25461e2a-b24e-48c7-ad04-00489e6c290b
+
 <p align="center"><sub><b>Index</b> in <b>Blanc</b>, with an Xbox controller · <a href="media/demo-index-white.mp4">MP4</a></sub></p>
 
-<p align="center">
-  <a href="media/demo-ambient-obsidian.mp4"><img src="media/demo-ambient-obsidian.gif" width="100%" alt="The same demo in the Ambient layout and the Obsidian theme: the dock and every app with the remote; the same with a PlayStation controller, whose cross, triangle and circle buttons show in the hints; then the screensaver over Spotify with the cover and synced lyrics."></a>
-</p>
+https://github.com/user-attachments/assets/23b3611a-4323-49cc-b636-cbf1713d93d0
+
 <p align="center"><sub><b>Ambient</b> in <b>Obsidian</b>, with a PlayStation controller · <a href="media/demo-ambient-obsidian.mp4">MP4</a></sub></p>
 
 <p align="center"><sub>Recorded from zipDash's PC preview with sample apps and an invented song; on the TV it looks the same.</sub></p>

@@ -88,7 +88,7 @@ installed. zipDash is tested on an OLED A1; other webOS 6 TVs should work.
   "no signal" slideshow, and the TV still switches itself off after 15 minutes
   if you set it to.
 - **The TV's pop-ups in your theme.** Messages such as "PS5 désormais disponible"
-  take zipDash's look and theme, across the whole TV.
+  take zipDash's look and theme, across the whole TV, in the style of your layout.
 - **Its own volume bar and keyboard** (AZERTY or Swiss QWERTZ), drawn in your theme.
 - **Your game controller as the remote.** A PS5, PS4 or Xbox controller drives zipDash,
   LG's menus and every app; games that use the controller keep it to themselves. zipDash's

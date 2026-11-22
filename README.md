@@ -23,8 +23,8 @@ processor time while it sits there.
 
 <p align="center"><sub>Left: LG's home on the test TV, with its sponsored tiles and recommendation rows already turned off. Right: zipDash, from its PC preview with sample apps.</sub></p>
 
-While zipDash is installed, LG's home screen, screensaver and power-off logo are
-replaced. Remove it and everything is LG's again, as it was.
+While zipDash is installed, LG's home screen, screensaver, power-off logo and
+pop-up messages are replaced. Remove it and everything is LG's again, as it was.
 
 ## See it move
 
@@ -83,7 +83,12 @@ installed. zipDash is tested on an OLED A1; other webOS 6 TVs should work.
 - **Inputs that show what is plugged in.** HDMI ports with something connected
   are marked live.
 - **Its own screensaver**, across the whole TV: a slow clock in your theme
-  (Dérive, Orbite, or Constellation with your favourite apps).
+  (Dérive, Orbite, or Constellation with your favourite apps). When a console
+  goes to sleep on its input, zipDash's screensaver comes up instead of LG's
+  "no signal" slideshow, and the TV still switches itself off after 15 minutes
+  if you set it to.
+- **The TV's pop-ups in your theme.** Messages such as "PS5 désormais disponible"
+  take zipDash's look and theme, across the whole TV.
 - **Its own volume bar and keyboard** (AZERTY or Swiss QWERTZ), drawn in your theme.
 - **Your game controller as the remote.** A PS5, PS4 or Xbox controller drives zipDash,
   LG's menus and every app; games that use the controller keep it to themselves. zipDash's
@@ -142,8 +147,8 @@ Measured on the OLED A1, on the home screen, back from another app:
 ## Going back to LG
 
 In zipDash, **Paramètres** › **Revenir à LG**, or open **zipDash Setup** and
-press **Revenir à l'accueil LG**. LG's home screen, screensaver and power-off
-logo come back at once, and zipDash is removed with its settings. Nothing of LG's was ever
+press **Revenir à l'accueil LG**. LG's home screen, screensaver, power-off
+logo and pop-ups come back at once, and zipDash is removed with its settings. Nothing of LG's was ever
 changed on the TV: zipDash lays its screens over LG's while it is installed.
 zipDash Setup stays, so you can reinstall in one press; remove it from LG's app
 list if you don't want it.

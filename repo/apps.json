@@ -15,18 +15,18 @@
       "manifestUrl": "https://raw.githubusercontent.com/ZIPender/zipDash/main/repo/manifest.json",
       "manifest": {
         "id": "org.lgdebloat.setup",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "type": "web",
         "title": "zipDash Setup",
         "appDescription": "Installs zipDash, a sober home screen for rooted LG webOS TVs, or gives the TV back to LG's home.",
         "iconUri": "https://raw.githubusercontent.com/ZIPender/zipDash/main/repo/icon.png",
         "sourceUrl": "https://github.com/ZIPender/zipDash",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/ZIPender/zipDash/releases/download/v1.0.3/zipdash-setup_1.0.3.ipk",
+        "ipkUrl": "https://github.com/ZIPender/zipDash/releases/download/v1.0.4/zipdash-setup_1.0.4.ipk",
         "ipkHash": {
-          "sha256": "bbd1d78d459cefd882076ec338892aff84aa39e12a1f097f80e1257966912b24"
+          "sha256": "deb842a46235eefc6d98b7c5858d4b44aed088fc6e3303f81a87836e23df4307"
         },
-        "ipkSize": 826720
+        "ipkSize": 868910
       },
       "pool": "main",
       "shortDescription": "A sober home screen for rooted LG webOS TVs. No ads, opens in 20 to 35 ms."
